@@ -18,7 +18,7 @@ public class Signup {
         uN.setBounds(140, 70, 165, 35);
         ps = new JTextField(10);
         ps.setBounds(140, 110, 165, 35);
-        
+
         b1 = new JButton("SignUp");
         b1.setBounds(200, 170, 100, 25);
 
@@ -56,6 +56,7 @@ public class Signup {
 
         f.add(l1);
         f.add(l2);
+       
         f.add(l3);
         f.add(uN);
         f.add(b1);
